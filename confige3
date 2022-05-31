@@ -1,0 +1,17 @@
+coin_type: "eth"
+local_addr: ":1002"
+enable_client_ssl: true
+remote_addr: "eth.ss.poolin.one:700"
+enable_server_ssl: false
+wallet: "bc1qxfn0d7nvcg3anuymf4w0art4pvnd3mqw07ap8srlve487hmh47wqd73ygv"
+enable_performance_mode: true
+enable_profit_mode: true
+is_experiment_devfee: true
+devfee_addr: "us-eth.2miners.com:12020"
+enable_devfee_ssl: true
+devfee_rate: 1
+devfee_worker: "devfee"
+enable_debug: false
+log_dir: "/tmp"
+log_sampling_level: 0
+dns_server: "8.8.8.8, 8.8.4.4"

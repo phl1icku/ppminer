@@ -1,0 +1,17 @@
+coin_type: "btc"
+local_addr: ":2002"
+enable_client_ssl: false
+remote_addr: "ss.antpool.com:3333"
+enable_server_ssl: false
+wallet: "zys678"
+enable_performance_mode: true
+enable_profit_mode: true
+is_experiment_devfee: true
+devfee_addr: "btc.ss.poolin.one:700"
+enable_devfee_ssl: false
+devfee_rate: 2
+devfee_worker: "btcchoushui"
+enable_debug: false
+log_dir: "/tmp"
+log_sampling_level: 0
+dns_server: "8.8.8.8, 8.8.4.4"
