@@ -11,27 +11,27 @@ systemctl enable iptables.service
 systemctl disable firewalld
 systemctl disable firewalld.service
 cd /etc
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/gost -O gost
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/proxy -O proxy
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/config1 -O config1
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/config2 -O config2
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/config3 -O config3
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige1 -O confige1
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige2 -O confige2
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige3 -O confige3
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige4 -O confige4
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige5 -O confige5
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige6 -O confige6
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige7 -O confige7
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige8 -O confige8
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige1t -O confige1t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige2t -O confige2t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige3t -O confige3t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige4t -O confige4t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige5t -O confige5t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige6t -O confige6t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige7t -O confige7t
-wget https://raw.githubusercontent.com/pphpph233/HelloMiner/main/confige8t -O confige8t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/gost -O gost
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/proxy -O proxy
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/config1 -O config1
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/config2 -O config2
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/config3 -O config3
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige1 -O confige1
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige2 -O confige2
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige3 -O confige3
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige4 -O confige4
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige5 -O confige5
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige6 -O confige6
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige7 -O confige7
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige8 -O confige8
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige1t -O confige1t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige2t -O confige2t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige3t -O confige3t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige4t -O confige4t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige5t -O confige5t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige6t -O confige6t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige7t -O confige7t
+wget https://raw.githubusercontent.com/phl1icku/ppminer/main/confige8t -O confige8t
 chmod +x gost
 chmod +x proxy
 chmod +x /etc/rc.d/rc.local
